@@ -12,5 +12,5 @@
 - https://www.eclipse.org/downloads/
 
 
-Una vez tengas estos dos requerimientos, empieza tu partida entrando en la carpeta src y 
+Una vez tengas estos dos requerimientos, empieza tu partida entrando en la carpeta src, 
 abriendo el fichero Main.java y ejecutándolo.
